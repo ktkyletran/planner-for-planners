@@ -13,7 +13,7 @@ textarea{
   padding: 10px;
   margin-left: 2%;
   height: 100%;
-  width: 85%;
+  width: 85.5%;
 }
 
 .jumbotron {
@@ -62,10 +62,12 @@ textarea{
 
 .saveBtn {
   border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
   background-color: #06AED5;
   color: white;
+  height: 100%;
+  width: 7.5%;
 }
 
 .saveBtn i:hover {
